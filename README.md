@@ -1,4 +1,4 @@
-# PongGameinPython
+# Ping Pong Game in Python
 Simple Multiplayer pong game to play, made with python 3.8 
 Developed by Ebrahim Basha/ TheRealAce
 
