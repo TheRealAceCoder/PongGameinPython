@@ -4,6 +4,7 @@ Developed by Ebrahim Basha/ TheRealAce
 
 How to run?
 You must have Python installed on your PC.
+
 Open the Pong1 python file in VSC or PyCharm and then run it, in Visual Studio code you can right click and then choose run with Terminal, in Pycharm you will see a play button to run.
 
 Controls
